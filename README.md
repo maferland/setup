@@ -46,6 +46,8 @@ brew install bat
 brew install trash
 brew install watchman
 brew install  lsd
+brew install --cask linear-linear
+brew install --cask rocket 
 ```
 
 ## [Configure Hyper](./hyper/README.md)
