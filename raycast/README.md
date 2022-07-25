@@ -1,3 +1,5 @@
-## Prerequisites
+## Configuration
 
-Install [Raycast](https://www.raycast.com/)
+Import `raycast.rayconfig`
+
+
