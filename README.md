@@ -49,8 +49,13 @@ brew install watchman
 brew install obsidian
 brew install notion
 brew install  lsd
+brew install firefox
+brew install diff-so-fancy
 brew install --cask linear-linear
 brew install --cask rocket
+brew install --cask 1password
+brew install --cask discord
+brew install --cask muzzle
 ```
 
 ## [Configure Hyper](./hyper/README.md)
