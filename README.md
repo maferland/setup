@@ -51,6 +51,7 @@ brew install notion
 brew install  lsd
 brew install firefox
 brew install diff-so-fancy
+brew install bettertouchtool
 brew install --cask linear-linear
 brew install --cask rocket
 brew install --cask 1password
