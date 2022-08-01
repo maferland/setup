@@ -53,6 +53,7 @@ brew install firefox
 brew install diff-so-fancy
 brew install bettertouchtool
 brew install ngrok
+brew install keycastr
 brew install --cask linear-linear
 brew install --cask rocket
 brew install --cask 1password
