@@ -1,0 +1,6 @@
+tell application "Spotify"
+    if it is not running then
+      activate
+    end if
+	playpause
+end tell
