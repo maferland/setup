@@ -1,1 +1,3 @@
 ## Configuration
+
+Enable VSCode sync
