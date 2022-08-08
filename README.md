@@ -1,8 +1,13 @@
+<div align="center">
+<h1>⚙️ Setup</h1>
+
+<p>New Laptop Configuration Helper</p>
+</div>
+
+---
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-**Table of Contents** _generated with
-[DocToc](https://github.com/thlorenz/doctoc)_
 
 - [Install Brew](#install-brew)
 - [Configure Hyper](#configure-hyper)
