@@ -1,7 +1,7 @@
 <div align="center">
 <h1>⚙️ Setup</h1>
 
-<p>New Laptop Configuration Helper</p>
+<p>dotfiles on steroid</p>
 </div>
 
 ---
