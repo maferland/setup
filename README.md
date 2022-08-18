@@ -65,7 +65,7 @@ brew install --cask rocket
 brew install --cask 1password
 brew install --cask discord
 brew install --cask muzzle
-brew install --cask insomnia
+brew install --cask postman
 ```
 
 ## [Configure Hyper](./hyper/README.md)
